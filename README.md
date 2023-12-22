@@ -27,7 +27,7 @@ I am a Full Stack Developer
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode, Advent of Code and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhinav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-pratap-singh-5764a2180/)
 ---
