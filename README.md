@@ -48,8 +48,14 @@ I am a Full Stack Developer
 <!--   <img src="" title="" alt="" width="40" height="40" />&nbsp; -->
 
 ---
+### Stats
+
+- ### Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Unforgettable&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+- ### Top Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Unforgettable&layout=compact&theme=dracula)](https://github.com/Mr-Unforgettable/github-readme-stats)
 
