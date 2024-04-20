@@ -4,9 +4,9 @@
     <a href="https://www.linkedin.com/in/abhinav-pratap-singh-5764a2180/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UChyMQLMycXy7WFFVNuqZ6Bw">
+<!--     <a href="https://www.youtube.com/channel/UChyMQLMycXy7WFFVNuqZ6Bw">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
+    </a> -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mr-Unforgettable&style=flat-square&color=blue" alt=""/>
   <h1>
