@@ -1,24 +1,22 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" />
   <div id="badges">
-    <a href="https://www.linkedin.com/in/abhinav-pratap-singh-5764a2180/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+      <a href="https://www.linkedin.com/in/abhinav-pratap-singh-5764a2180/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
 <!--     <a href="https://www.youtube.com/channel/UChyMQLMycXy7WFFVNuqZ6Bw">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mr-Unforgettable&style=flat-square&color=blue" alt=""/>
   <h1>
-    Welcome to my github page.
+    Welcome to my github profile.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <div align="center">
+<!--   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-  </div>
+  </div> -->
 </div>
-
----
 
 ### 👨‍💻 About me
 I am a Full Stack Developer 
