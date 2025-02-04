@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" />
+  <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" />
   <div id="badges">
       <a href="https://www.linkedin.com/in/abhinav-pratap-singh-5764a2180/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
