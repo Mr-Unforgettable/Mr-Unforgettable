@@ -52,8 +52,7 @@ I am a Full Stack Developer
 
 - ### Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Unforgettable&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mr-Unforgettable&theme=neon-dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Unforgettable&theme=neon-dark)](https://git.io/streak-stats)
 
 - ### Top Language Stats
 
