@@ -52,7 +52,7 @@ I am a Full Stack Developer
 
 - ### Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Unforgettable&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Unforgettable&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 - ### Top Language Stats
